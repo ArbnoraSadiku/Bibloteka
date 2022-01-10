@@ -1,0 +1,1 @@
+SELECT SUM(Nr_i_kopjeve) AS Nr_i_kopjeve FROM libri;
